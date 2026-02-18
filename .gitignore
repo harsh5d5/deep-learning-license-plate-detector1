@@ -1,0 +1,5 @@
+__pycache__/
+*.csv
+number_detection/
+models/license_plate_detector.zip
+*.pyc
