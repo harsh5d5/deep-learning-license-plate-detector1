@@ -3,3 +3,9 @@ __pycache__/
 number_detection/
 models/license_plate_detector.zip
 *.pyc
+
+# Added exclusions
+.venv/
+.vscode/
+*.pt
+node_modules/
