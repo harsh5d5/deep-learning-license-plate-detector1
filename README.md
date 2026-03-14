@@ -3,7 +3,7 @@
 
 A high-performance Automatic Number Plate Recognition (ANPR) system using YOLOv8, SORT tracking, and EasyOCR with persistent relative coordinate locking.
 
-## Features
+## Features 
 - **Real-Time 1080p Processing**: Optimized for CPU speed.
 - **Relative Plate Locking**: Red box "sticks" to the car even if the plate is temporarily hidden.
 - **Proportional Scaling**: Intelligent box resizing as cars approach the camera.
