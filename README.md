@@ -1,5 +1,5 @@
 # Precision Real-Time ANPR
-### Developed by: Harsh Jayeshbhai Patel
+### Developed by: Harsh Jayeshbhai Patel 
 
 A high-performance Automatic Number Plate Recognition (ANPR) system using YOLOv8, SORT tracking, and EasyOCR with persistent relative coordinate locking.
 
